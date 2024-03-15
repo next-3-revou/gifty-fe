@@ -10,6 +10,7 @@ Welcome to the GIFTY! This README will guide you through the functionalities and
 2. Features
 3. Local installation and Usage
 4. Deployment
+5. Additional
 
 ## 1. Introduction
 
@@ -41,6 +42,10 @@ Run the project using
 
 ## 4. Deployment
 This project succesfully deployed at [https://giftyy.netlify.app/](https://giftyy.netlify.app/)
+
+## 5. Additional
+For backend , you can check the repository at <br>
+https://github.com/m-istighfar/Gifty_BE
 <br><br>
 
 
