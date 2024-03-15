@@ -156,7 +156,7 @@ const Profiles = () => {
 														</Tabs.Item>
 														<Tabs.Item title="Collaboration">
 														{ data !== undefined
-																? ( data.wishlists !== undefined
+																? ( data.wishlists !== undefined && Object.keys(data.wishlists).length > 0 
 																	? <RenderFuncCollab data={data.wishlists} />
 																	: <RenderNull />
 																)
