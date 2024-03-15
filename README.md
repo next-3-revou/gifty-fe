@@ -40,8 +40,8 @@ Run the project using
 ```
 
 ## 4. Deployment
-
-
+This project succesfully deployed at [https://giftyy.netlify.app/](https://giftyy.netlify.app/)
+<br><br>
 
 
 Thank you for choosing Gifty! We hope our platform helps you spread joy and happiness to your friends and family. If you have any feedback or suggestions, we'd love to hear from you. Happy gifting!
