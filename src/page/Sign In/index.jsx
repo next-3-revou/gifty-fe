@@ -153,7 +153,7 @@ const SignIn = () => {
 													onClick={formMik.handleSubmit}
 													className="focus:outline-none focus:ring-blue-300 focus:ring-2 items-center inline-flex justify-center font-bold px-4 min-w-[80px] transition-colors bg-[#1FAD66] text-white hover:bg-blue-600 w-full h-10 text-sm rounded-md"
 												>
-													Lanjutkan
+													Sign In
 												</button>
 												<Link to="/getstarted" className="text-primary block font-semibold">
 													Sign Up
