@@ -147,7 +147,7 @@ const Profiles = () => {
 													<Tabs aria-label="Pills" style="pills" className='justify-evenly mt-2'>
 														<Tabs.Item active title="Personal">
 														{ data !== undefined
-																? ( data.wishlists !== undefined
+																? ( data.wishlists !== undefined && Object.keys(data.wishlists).length > 0 
 																	? <RenderFunc data={data.wishlists} />
 																	: <RenderNull />
 																)

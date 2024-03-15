@@ -18,8 +18,6 @@ const Payment = () => {
   const tokens = JSON.parse(localStorage.getItem('accessToken'));
 	const navigate = useNavigate();
 
-  console.log(userID.id)
-
   const [messageApi, contextHolder] = message.useMessage();
 	const [loading, setLoading] = useState(false)
   
